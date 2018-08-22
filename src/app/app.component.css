@@ -1,0 +1,13 @@
+.jumbotron{
+    background-color:rgb(255, 230, 4);
+}
+
+a{
+    margin-left: 50px;
+    color:black;
+}
+
+.container-fluid{
+    display: flex;
+    flex: wrap;
+}
